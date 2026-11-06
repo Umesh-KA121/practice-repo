@@ -1,1 +1,1 @@
-Hi there member-1 reporting, done with the stucture.
+Trying to make a sample page with login and sign-up , then a main page with all the details of students.
